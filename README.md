@@ -1,4 +1,4 @@
-# ola mundinho
+# Olá Mundinho
  primeiro repositório do curso de GIT GitHub
 
  alterei o readme
