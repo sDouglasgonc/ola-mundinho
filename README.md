@@ -1,6 +1,7 @@
-# Olá Mundinho
- primeiro repositório do curso de GIT GitHub
+## Olá Mundinho
+---
+ Primeiro repositório do curso de **GIT** e **GitHub**
 
- alterei o readme
- 
- simplesmente um exemplo
+Só um Exemplo do que dá pra fazer nessa Plataforma
+
+
